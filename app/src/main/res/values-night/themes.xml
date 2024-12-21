@@ -1,0 +1,13 @@
+<!-- res/values-night/themes.xml -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.App" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Dark mode colors -->
+        <item name="colorPrimary">#BB86FC</item>
+        <item name="colorPrimaryVariant">#3700B3</item>
+        <item name="colorOnPrimary">#000000</item>
+        <item name="colorSecondary">#03DAC5</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="android:windowBackground">#121212</item>
+    </style>
+</resources>
+
